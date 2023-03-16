@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?text=WebDesignPublisher&animation=fadeIn)
-<h1 align="center">Hi 👋, I'm Kim minjeong</h1>
+<h1 align="center">Hi :revolving_hearts:, I'm Kim minjeong</h1>
 <h3 align="center">자유롭고 창의적인 디자인을 제시하는 웹 퍼블리셔 디자이너입니다</h3>
 
 
@@ -12,6 +12,8 @@
 - 💬 Ask me about **HTML, CSS, Javascript, Jpuery, SCSS**
 
 - 📫 How to reach me **bella3073@naver.com**
+
+<p><br></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
