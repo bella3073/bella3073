@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=WebDesignPublisher&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?text=WebDesignPublisher&animation=fadeIn&color=0:eeaeca,100:94bbe9)
 <h1 align="center">Hi :revolving_hearts:, I'm Kim minjeong</h1>
 <h3 align="center">자유롭고 창의적인 디자인을 제시하는 웹 퍼블리셔 디자이너입니다</h3>
 
